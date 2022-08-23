@@ -1,7 +1,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 ##
 # ProxyNinja-ng
-Python script to get https or socks(4) proxies by scraping the web and api.
+Python script to get https or socks(4/5) proxies by scraping the web and api.
 ##
 ### 🔧 Technologies & Tools
 
